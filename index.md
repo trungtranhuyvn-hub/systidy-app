@@ -31,9 +31,9 @@ Some parts of System Data, such as local Time Machine snapshots or the Spotlight
 No. Nothing is removed until you select items and confirm. You choose the Trash or permanent deletion each time.
 
 **What is SysTidy Pro?**
-SysTidy Pro is not available yet; it arrives in version 1.1. The current version 1.0 is free with no cleaning limit. From 1.1, scanning, explanations, risk levels and folder diagnosis stay free and the free version cleans up to 5 GB in total. Pro will be a one-time purchase (not a subscription) that adds unlimited cleaning, "Clean all suggested" in one click, scan history showing exactly what grew, alerts when System Data balloons, and cleanup of node_modules, virtual environments and build folders in projects you haven't touched. It supports Family Sharing.
+Scanning, explanations, risk levels and folder diagnosis are free, and the free version cleans up to 5 GB in total (version 1.0 had no limit). SysTidy Pro is a one-time purchase (not a subscription) that adds unlimited cleaning, "Clean all suggested" in one click, scan history showing exactly what grew, alerts when System Data balloons, and cleanup of node_modules, virtual environments and build folders in projects you haven't touched. It supports Family Sharing.
 
-**How do I restore my purchase? (from version 1.1)**
+**How do I restore my purchase?**
 Open Settings › SysTidy Pro › Restore purchase, signed in with the same Apple ID.
 
 **Does SysTidy collect my data?**
@@ -49,7 +49,7 @@ Góp ý, báo lỗi hoặc đề xuất tính năng: **tongduoctuvien@gmail.com*
 
 - **Chọn thư mục Home:** app App Store chạy trong sandbox, cần bạn chọn thư mục Home một lần để đo cache và log.
 - **Mail, Tin nhắn, Thùng rác:** cần cấp quyền Truy cập toàn bộ ổ đĩa (không bắt buộc).
-- **SysTidy Pro (có từ bản 1.1, hiện chưa bán):** mua một lần (không phải thuê bao): dọn không giới hạn, Dọn tất cả đề xuất, lịch sử quét, cảnh báo tăng trưởng, dọn dự án lập trình. Bản 1.0 hiện tại miễn phí, không giới hạn dọn; từ 1.1 bản miễn phí dọn tổng cộng 5 GB.
+- **SysTidy Pro:** mua một lần (không phải thuê bao): dọn không giới hạn, Dọn tất cả đề xuất, lịch sử quét, cảnh báo tăng trưởng, dọn dự án lập trình. Bản miễn phí dọn tổng cộng 5 GB (bản 1.0 không giới hạn).
 - **Không tự xóa:** SysTidy chỉ xóa khi bạn chọn và xác nhận; mỗi lần bạn chọn Thùng rác hoặc xóa vĩnh viễn.
 
 [Chính sách quyền riêng tư](privacy.html)
