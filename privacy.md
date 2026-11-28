@@ -4,9 +4,9 @@ title: Privacy Policy – SysTidy
 
 # Privacy Policy
 
-Last updated: November 25, 2026
+Last updated: November 28, 2026
 
-SysTidy does not collect any data. Everything it measures stays on your Mac.
+The SysTidy app does not collect any data. Everything it measures stays on your Mac. The website systidy.com keeps simple visit counts, described in its own section below.
 
 ## What the app reads
 
@@ -34,6 +34,17 @@ SysTidy only removes files you select and confirm. You choose the Trash or perma
 
 You can clear the scan history in the History screen. To remove all data, delete SysTidy and its container in ~/Library/Containers.
 
+## The systidy.com website
+
+This section is about the website only, not the app.
+
+- **Visit and button counts.** When a page on systidy.com opens, or someone presses a "Download on the Mac App Store" button, the site records: the page or button, the time, where the visit came from (the referring site's name or a `?ref=` tag in the link), the country and network provider as reported by Cloudflare, whether the device is a phone or a computer, and the browser's user-agent text. It records no IP address, sets no cookie and gives you no ID, so visits cannot be linked to a person. The counts are used only to see which pages and links bring visitors and to filter out bots.
+- **Within one visit**, the page remembers in your browser's session storage where you came from, so a later button press counts for the same source. It is deleted when you close the tab and is only sent as part of that button link.
+- **Cloudflare.** The site is hosted on Cloudflare, which handles every request and adds its cookie-free Web Analytics (page loads by page, country and browser). Cloudflare's privacy policy applies.
+- **Waitlist.** Before launch, the site had a waitlist form that stored an email address, page language, country and signup time. The form is closed, and everyone on the list was told their address would be deleted after the launch email.
+
+Nothing from the website is sold or shared, and nothing from the website is connected to the app.
+
 ## Children
 
 SysTidy is not directed at children under 13 and does not knowingly collect information from children.
@@ -50,6 +61,8 @@ If this policy changes, the date at the top of this page will be updated.
 
 # Quyền riêng tư (Tiếng Việt)
 
-SysTidy **không thu thập dữ liệu**. App chỉ đọc thông tin của tệp (tên, dung lượng, ngày sửa) để tính dung lượng, không đọc nội dung tệp. Cài đặt và, từ bản 1.1, lịch sử quét, nhật ký dọn (ngày, dung lượng, số mục), thư mục dự án bạn thêm, dung lượng dọn miễn phí đã dùng, số lần mở màn Pro và trạng thái Pro chỉ lưu trên máy Mac của bạn. Không có máy chủ, không tài khoản; mã của app không tự kết nối mạng. Từ bản 1.1, việc mua hoặc khôi phục Pro do Apple xử lý qua App Store. Không quảng cáo, không theo dõi, không analytics. App chỉ xóa những gì bạn chọn và xác nhận. Có thể xóa lịch sử trong màn Lịch sử; muốn xóa hết, xóa app và thư mục container của app trong ~/Library/Containers.
+App SysTidy **không thu thập dữ liệu**. App chỉ đọc thông tin của tệp (tên, dung lượng, ngày sửa) để tính dung lượng, không đọc nội dung tệp. Cài đặt và, từ bản 1.1, lịch sử quét, nhật ký dọn (ngày, dung lượng, số mục), thư mục dự án bạn thêm, dung lượng dọn miễn phí đã dùng, số lần mở màn Pro và trạng thái Pro chỉ lưu trên máy Mac của bạn. Không có máy chủ, không tài khoản; mã của app không tự kết nối mạng. Từ bản 1.1, việc mua hoặc khôi phục Pro do Apple xử lý qua App Store. Không quảng cáo, không theo dõi, không analytics. App chỉ xóa những gì bạn chọn và xác nhận. Có thể xóa lịch sử trong màn Lịch sử; muốn xóa hết, xóa app và thư mục container của app trong ~/Library/Containers.
+
+**Website systidy.com** (không phải app) ghi lượt xem trang và lượt bấm nút App Store: trang hoặc nút, thời điểm, nguồn đến (tên trang dẫn tới hoặc thẻ `?ref=`), quốc gia và nhà mạng do Cloudflare báo, loại thiết bị (điện thoại hay máy tính) và chuỗi user-agent của trình duyệt. Không lưu IP, không cookie, không mã định danh, nên không gắn được lượt xem với một người. Trong một lần xem, trang nhớ nguồn đến trong session storage của trình duyệt (tự xóa khi đóng tab). Site chạy trên Cloudflare, có Web Analytics không cookie của Cloudflare. Danh sách chờ trước ngày ra mắt (email, ngôn ngữ, quốc gia, thời điểm) đã đóng; người đăng ký đã được báo địa chỉ sẽ bị xóa sau thư ra mắt. Không bán, không chia sẻ, không nối dữ liệu website với app.
 
 Liên hệ: tongduoctuvien@gmail.com
